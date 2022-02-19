@@ -275,6 +275,11 @@ p {
   color: var(--hero-text-color);
 }
 
+.hero-image-content {
+  width: 100%;
+  min-width: 320px;
+}
+
 /* ******** Menu ******** */
 .menu-btn {
   outline: thin solid var(--first-color);
